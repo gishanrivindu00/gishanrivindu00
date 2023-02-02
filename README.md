@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gishan Rivindu</h1>
-<h3 align="center">An undergraduate student at SLIIT.</h3>
+<h3 align="center">An Information Technology Undergraduate Student at SLIIT.</h3>
 
 <img align="right" alt="coding"  src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
